@@ -1,0 +1,19 @@
+{
+  "schema_version": 2,
+  "language": "swift",
+  "release_tag": "v0.18.0-nightly.20260909.g9f188e1",
+  "source": {
+    "repo": "crodas/cdk",
+    "commit": "9f188e135c84034c7c7b9151884fa4066cdfcd53",
+    "cdk_version": "0.18.0"
+  },
+  "toolchain": {
+    "rust_channel": "1.98.0"
+  },
+  "lockfiles": {
+    "workspace_cargo_lock_sha256": "b1bd052adf2ca5007e32cb842e1d188dd897dd820f2ca3ce391c04d564e95fea",
+    "binding_cargo_lock_sha256": "5274b5d9aa237e34ca30b3c346e495d1be8cb18074fc0314614e2448d97e7fbc",
+    "binding_cargo_lock_source_ref": "9f188e135c84034c7c7b9151884fa4066cdfcd53",
+    "flake_lock_sha256": "5445babb4dffe2fdd5426d0c9a578d43658e508c8ecab66ab5f544c8a501f9e8"
+  }
+}
