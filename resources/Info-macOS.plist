@@ -11,7 +11,7 @@
     <key>CFBundleVersion</key>
     <string>1</string>
     <key>CFBundleShortVersionString</key>
-    <string>10.10.10</string>
+    <string>__CDK_SWIFT_FRAMEWORK_VERSION__</string>
     <key>CFBundlePackageType</key>
     <string>FMWK</string>
     <key>LSMinimumSystemVersion</key>
